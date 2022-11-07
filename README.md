@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @jpnadela
+- 👋 Hi, I’m @jpnadela. An aspiring data analyst and web developer from :philippines:
+
+✨ About Me ✨
+:luggage: Accountant turned data analyst
+📊 Transition to data since March 2021
+📝 Taught myself SQL, Python and Tableau
 - 👀 I’m interested in web development and data analysis ...
 - 🌱 I’m currently learning Google Data Analytics, R programming, Phython, SQL & Javascript...
 - 💞️ I’m looking to collaborate on SQL and Front End Development (HTML & CSS)...
