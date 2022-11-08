@@ -1,15 +1,31 @@
-- 👋 Hi, I’m @jpnadela. An aspiring data analyst and web developer from :philippines:
+# Hi, I’m @jpnadela. 👋
 
-✨ About Me ✨
-:luggage: Accountant turned data analyst
-📊 Transition to data since March 2021
-📝 Taught myself SQL, Python and Tableau
-- 👀 I’m interested in web development and data analysis ...
-- 🌱 I’m currently learning Google Data Analytics, R programming, Phython, SQL & Javascript...
-- 💞️ I’m looking to collaborate on SQL and Front End Development (HTML & CSS)...
-- 📫 How to reach me ...
-Email: joefer.nadela@outlook.com
-LinkedIn: https://www.linkedin.com/in/joefer-paul-jp-nadela-56a433122/
+
+## Aspiring Data Analyst and Web Developer from :philippines:
+
+✨ **About Me** ✨
+ - :luggage: Former hotelier
+ - 📊 Started learning Data Analytics and Front-End Development since early 2022
+ - 📝 Taught myself HTML, CSS and SQL
+
+
+💡 **Core Competencies** 💡
+- Tools: SQL, Excel, HTML, CSS
+- Skills: Data Cleaning, Data Visualisation, Data Analysis, Dashboard Design and Development, Front End Development
+
+
+🌱 **Currently Learning** 🌱 
+- Google Data Analytics
+- R programming
+- Phython
+- SQL
+- Javascript
+
+
+📫 **Connect With Me**📫
+- [LinkedIn](https://www.linkedin.com/in/joefer-paul-jp-nadela-56a433122/)
+- [Kaggle](https://www.kaggle.com/joeferpaulnadela)
+- [Email](mailto:joefer.nadela@outlook.com) 
 
 <!---
 jpnadela/jpnadela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
