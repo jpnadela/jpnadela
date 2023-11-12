@@ -5,21 +5,17 @@
 
 ✨ **About Me** ✨
  - :luggage: Former hotelier
- - 📊 Started learning Data Analytics and Front-End Development since early 2022
- - 📝 Taught myself HTML, CSS and SQL
-
+ - 📊 Started learning Data Analytics and Front-End Development early 2022
+ - 📝 Taught myself HTML & CSS with Udemy courses
 
 💡 **Core Competencies** 💡
-- Tools: SQL, Excel, HTML, CSS
+- Tools: Excel, HTML, CSS
 - Skills: Data Cleaning, Data Visualisation, Data Analysis, Dashboard Design and Development, Front End Development
 
 
 🌱 **Currently Learning** 🌱 
-- Google Data Analytics
-- R programming
-- Phython
-- SQL
-- Javascript
+- HTML & CSS
+  
 
 
 📫 **Connect With Me**📫
